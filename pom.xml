@@ -92,18 +92,18 @@
 		</dependency>
 		
 	</dependencies>
-	
+
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://44.192.81.238:8888/mylandmarktech/repository/ebay-java-app-releases/</url>
+	      <url> http://54.197.102.183:8081/repository/ebay-bts7-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/ebay-java-app-snapshot/</url>
+	      <url>http://54.197.102.183:8081/repository/ebay-bts7-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
